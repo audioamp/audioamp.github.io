@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Welcome to Audio Amp
 
-You can use the [editor on GitHub](https://github.com/audioamp/audioamp.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Audio Amp is an open source, kit for teaching audio electronics in a lab setting.
+It is designed to engage students at two levels of electronics experience:
+1. *beginner/introductory students*, who will learn how the system works at the block diagram level, and will be able to experiment with how different audio tones sound and look on the oscilloscope.
+2. *intermediate/advanced students*, who will learn how the circuit works in detail at the transistor level.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To make full use of the Audio Amp, you will need additional equipment:
+* 8Ω speaker with banana plug jacks
+* oscilloscope
+* waveform generator
 
-### Markdown
+Of course, you don't need to have a top-of-the-line oscilloscope and waveform generator to make use of Audio Amp.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Circuit Design
+![LTSpice schematic](assets/audioamp_LTSpice_schematic.png)
 
-```markdown
-Syntax highlighted code block
+![LTSpice waveforms](assets/audioamp_LTSpice_waveforms.png)
 
-# Header 1
-## Header 2
-### Header 3
+## Breadboard version
+![breadboard version](assets/audioamp_breadboard.jpg)
 
-- Bulleted
-- List
+## PCB version
+![PCB version](assets/audioamp_PCB_v1.1.png)
 
-1. Numbered
-2. List
+## Cost
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/audioamp/audioamp.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## About Us
+This project was created by William Meng with the guidance and support of Dr. David Vallancourt.
