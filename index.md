@@ -40,17 +40,17 @@ It is designed to engage students at two levels of electronics experience:
 
 ## Circuit Design <a name="circuit-design"></a>
 ### Schematic and Simulation <a name="schematic-and-simulation"></a>
-![LTSpice schematic](assets/audioamp_LTSpice_schematic.png)
+<img src="assets/audioamp_LTSpice_schematic.png" width="50%">
 
-![LTSpice waveforms](assets/audioamp_LTSpice_waveforms.png)
+<img src="assets/audioamp_LTSpice_waveforms.png" width="50%">
 
 
 ## Breadboard version <a name="breadboard-version"></a>
-![breadboard version](assets/audioamp_breadboard.jpg)
+<img src="assets/audioamp_breadboard.jpg" width="50%">
 
 
 ## PCB version <a name="pcb-version"></a>
-![PCB version](assets/audioamp_PCB_v1.1.png)
+<img src="assets/audioamp_PCB_v1.1.png" width="50%">
 
 
 ## Cost <a name="cost"></a>
@@ -68,7 +68,7 @@ Cost breakdown:
 Total cost per unit: **$x**
 
 
-## Additional Equipment <a name="#additional-equipment"></a>
+## Additional Equipment <a name="additional-equipment"></a>
 To make use of Audio Amp, you will need additional equipment:
 * 8Ω speaker with banana plug jacks
 * oscilloscope
