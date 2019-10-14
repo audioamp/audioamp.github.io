@@ -71,6 +71,7 @@ Cost breakdown:
 
 Total cost per unit: **$x**
 
+Currently, we are not selling pre-made kits. However, if there is significant interest, we may start a crowdfund to manufacture and distribute these kits.
 
 ## Additional Equipment <a name="additional-equipment"></a>
 To make use of Audio Amp, you will need additional equipment:
@@ -87,7 +88,7 @@ And any smartphone with an audio jack can work as a make-shift function generato
 
 For additional bells-and-whistles, consider getting these:
 
-* *Bluetooth-to aux-receiver* to work with phones that lack an audio jack
+* *Bluetooth-to-aux receiver* to use phones without an audio jack
 * *Spectrum analyzer* or oscilloscope with *FFT* capabilities to analyze audio signals in the frequency domain
 
 
