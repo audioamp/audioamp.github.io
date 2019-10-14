@@ -2,8 +2,10 @@
 
 Audio Amp is an Open Source Hardware (OSHW) kit for teaching audio electronics in a lab setting.
 It is designed to engage students at two levels of electronics experience:
-1. *Beginner/introductory students*, who will learn how the system works at the block diagram level, and will be able to experiment with how different audio tones sound and look on the oscilloscope.
-2. *Intermediate/advanced students*, who will learn how the opamp and transistor circuits work at the component level.
+1. *Beginner/introductory students* will learn how the system works at the block diagram level and experiment with how different audio tones sound and look on the oscilloscope.
+2. *Intermediate/advanced students* will learn how the opamp and transistor circuits work at the component level and learn how to solder on a PCB.
+
+The design files for this kit can be found in [our Github repository](https://github.com/audioamp/audioamp) and are licensed under the [TAPR Open Hardware License](https://www.tapr.org/ohl.html).
 
 
 # Table of Contents
@@ -91,4 +93,8 @@ For additional bells-and-whistles, consider getting these:
 
 
 ## About Us <a name="about-us"></a>
-This kit was created by William Meng with the guidance and support of David Vallancourt.
+This kit was created by [William Meng](https://williammeng.com/) with the guidance and support of David Vallancourt.
+
+© William Meng 2019. This contents of this webpage are licensed according to CC BY-SA 4.0.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
