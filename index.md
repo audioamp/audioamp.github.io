@@ -2,7 +2,8 @@
 
 Audio Amp is an Open Source Hardware (OSHW) kit for teaching audio electronics in a lab setting.
 It is designed to engage students at two levels of electronics experience:
-1. *Beginner/introductory students* will learn how the system works at the block diagram level and experiment with how different audio tones sound and look on the oscilloscope.
+
+1. *Beginner students* will learn how the system works at the block diagram level and experiment with how different audio tones sound and look on the oscilloscope.
 2. *Intermediate/advanced students* will learn how the opamp and transistor circuits work at the component level and learn how to solder on a PCB.
 
 The design files for this kit can be found in [our Github repository](https://github.com/audioamp/audioamp) and are licensed under the [TAPR Open Hardware License](https://www.tapr.org/ohl.html).
@@ -25,19 +26,19 @@ The design files for this kit can be found in [our Github repository](https://gi
 
 ## Curriculum Goals <a name="curiculum-goals"></a>
 ### Beginner level <a name="beginner-level"></a>
-* See and hear the difference between sine and square waves
-* See and hear the effect of clipping distortion
-* See and hear the effect of low pass and high pass filters
-* See and hear the effect of guitar pedals
+* See and hear the difference between *sine and square waves*
+* See and hear the effect of *clipping distortion*
+* See and hear the effect of *low pass and high pass filters*
+* See and hear the effect of *guitar pedals*
 
 ### Intermediate level <a name="intermediate-level"></a>
-* Construct and calculate gain of a non-inverting opamp amplifier
-* Understand how an opamp with negative feedback can correct for amplifier non-linearity
-* Understand how to bias a single-supply opamp
+* Construct and calculate gain of a *non-inverting opamp amplifier*
+* Understand how an opamp with *negative feedback* can *correct for amplifier non-linearity*
+* Understand how to bias a *single-supply opamp*
 
 ### Advanced level <a name="advanced-level"></a>
-* Understand how a VBE multiplier (aka. "rubber diode") works
-* Construct and bias a Class AB amplifier
+* Understand how a *VBE multiplier* (aka. "rubber diode") works
+* Construct and bias a *Class AB amplifier*
 
 
 ## Circuit Design <a name="circuit-design"></a>
@@ -61,6 +62,7 @@ Prices are for purchasing within the US in October 2019.
 Cost of additional equipment is not included.  
 
 Cost breakdown:
+
 * $5 per PCB from PCBWay
 * $x Digikey components
 * $x Newark components
@@ -72,6 +74,7 @@ Total cost per unit: **$x**
 
 ## Additional Equipment <a name="additional-equipment"></a>
 To make use of Audio Amp, you will need additional equipment:
+
 * 8Ω speaker with banana plug jacks
 * oscilloscope
 * waveform generator
@@ -83,18 +86,19 @@ Even a simple USB oscilloscope like the $30 [EspoTek Labrador](https://espotek.c
 And any smartphone with an audio jack can work as a make-shift function generator.
 
 For additional bells-and-whistles, consider getting these:
-* Bluetooth to aux receiver, to work with phones that lack an audio jack
-* Spectrum analyzer or oscilloscope with FFT capabilities, to analyze audio signals in the frequency domain
+
+* *Bluetooth-to aux-receiver* to work with phones that lack an audio jack
+* *Spectrum analyzer* or oscilloscope with *FFT* capabilities to analyze audio signals in the frequency domain
 
 
 ## Future Work <a name="future-work"></a>
-* Make a stereo amplifier so students can experiment with phase differences between 2 channels, and utilize the XY mode on an oscilloscope.
-* Make an interactive graphical simulator so students without access to any lab equipment can perform all the experiments.
+* Make a *stereo amplifier* so students can experiment with phase differences between 2 channels, and utilize the XY mode on an oscilloscope.
+* Make an *interactive graphical simulator* so students without access to any lab equipment can perform all the experiments.
 
 
 ## About Us <a name="about-us"></a>
 This kit was created by [William Meng](https://williammeng.com/) with the guidance and support of David Vallancourt.
 
-© William Meng 2019. This contents of this webpage are licensed according to CC BY-SA 4.0.
+© William Meng 2019. The contents of this webpage are licensed according to CC BY-SA 4.0.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
