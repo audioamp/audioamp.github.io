@@ -5,20 +5,6 @@ It is designed to engage students at two levels of electronics experience:
 1. *Beginner/introductory students*, who will learn how the system works at the block diagram level, and will be able to experiment with how different audio tones sound and look on the oscilloscope.
 2. *Intermediate/advanced students*, who will learn how the opamp and transistor circuits work at the component level.
 
-To make use of the Audio Amp, you will need additional equipment:
-* 8Ω speaker with banana plug jacks
-* oscilloscope
-* waveform generator
-* banana cables
-* BNC cables
-
-Of course, you don't need to have a top-of-the-line oscilloscope and waveform generator to make use of Audio Amp.
-Even a simple USB oscilloscope like the $30 [EspoTek Labrador](https://espotek.com/labrador/) would work!
-And any smartphone with an audio jack can work as a make-shift function generator.
-
-For additional bells-and-whistles, consider getting these:
-* Bluetooth to aux receiver, to work with phones that lack an audio jack
-* Spectrum analyzer or oscilloscope with FFT capabilities, to analyze audio signals in the frequency domain
 
 # Table of Contents
 1. [Curriculum Goals](#curriculum-goals)
@@ -30,8 +16,9 @@ For additional bells-and-whistles, consider getting these:
 	2. [Breadboard version](#breadboard-version)
 	3. [PCB version](#pcb-version)
 3. [Cost](#cost)
-4. [Future Work](#future-work)
-5. [About Us](#about-us)
+4. [Additional Equipment](#additional-equipment)
+5. [Future Work](#future-work)
+6. [About Us](#about-us)
 
 
 ## Curriculum Goals <a name="curiculum-goals"></a>
@@ -79,6 +66,23 @@ Cost breakdown:
 * $x box enclosure from Adafruit
 
 Total cost per unit: **$x**
+
+
+## Additional Equipment <a name="#additional-equipment"></a>
+To make use of Audio Amp, you will need additional equipment:
+* 8Ω speaker with banana plug jacks
+* oscilloscope
+* waveform generator
+* banana cables
+* BNC cables
+
+Of course, you don't need to have a top-of-the-line oscilloscope and waveform generator to make use of Audio Amp.
+Even a simple USB oscilloscope like the $30 [EspoTek Labrador](https://espotek.com/labrador/) would work!
+And any smartphone with an audio jack can work as a make-shift function generator.
+
+For additional bells-and-whistles, consider getting these:
+* Bluetooth to aux receiver, to work with phones that lack an audio jack
+* Spectrum analyzer or oscilloscope with FFT capabilities, to analyze audio signals in the frequency domain
 
 
 ## Future Work <a name="future-work"></a>
