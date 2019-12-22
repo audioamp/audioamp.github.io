@@ -1,4 +1,5 @@
 # Welcome to Audio Amp
+<img src="assets/audioamp_assembled.jpg" width="70%">
 
 Audio Amp is an Open Source Hardware (OSHW) kit for teaching audio electronics in a lab setting.
 It is designed to engage students at two levels of electronics experience:
@@ -43,7 +44,9 @@ The design files for this kit can be found in [our Github repository](https://gi
 
 ## Circuit Design <a name="circuit-design"></a>
 ### Schematic and Simulation <a name="schematic-and-simulation"></a>
-<img src="assets/audioamp_LTSpice_schematic.png" width="50%">
+The amplifier consists of a Class AB push-pull output stage (BD139 and BD140) with a Vbe multiplier (PN2222A) for biasing and opamp (LF411) for feedback, and a preamp stage consisting of a single opamp (LF411). The system run on a single 12V rail, so each stage is capacitively coupled to the next stage. 
+
+<img src="assets/audioamp_LTSpice_schematic_v1.2.png" width="50%">
 
 <img src="assets/audioamp_LTSpice_waveforms.png" width="50%">
 
@@ -53,7 +56,13 @@ The design files for this kit can be found in [our Github repository](https://gi
 
 
 ## PCB version <a name="pcb-version"></a>
-<img src="assets/audioamp_PCB_v1.1.png" width="50%">
+### Design in Altium Circuitmaker
+<img src="assets/audioamp_PCB_v1.2.png" width="50%"><img src="assets/audioamp_PCB_3D_v1.2.png" width="50%">
+
+### Assembled PCB
+<img src="assets/audioamp_v1.2_front.jpg" width="50%"><img src="assets/audioamp_v1.2_back.jpg" width="50%">
+<img src="assets/audioamp_v1.2_left.jpg" width="50%"><img src="assets/audioamp_v1.2_right.jpg" width="50%">
+<img src="assets/audioamp_v1.2_top.jpg" width="50%"><img src="assets/audioamp_v1.2_bottom.jpg" width="50%">
 
 
 ## Cost <a name="cost"></a>
